@@ -1,0 +1,22 @@
+{
+  "parent": {"database_id": "303e9260-c731-8046-86ef-e46bcd573622"},
+  "properties": {
+    "Name": {"title": [{"text": {"content": "Cathy Seeger"}}]},
+    "Contact": {"number": 6363947830},
+    "Quote Date": {"date": {"start": "2026-02-12"}},
+    "Brand": {"rich_text": [{"text": {"content": "Tempur-Pedic"}}]},
+    "Model": {"rich_text": [{"text": {"content": "TEMPUR-ProAdapt 12\" Medium Hybrid Mattress (outlet $1,300)"}}]},
+    "Size": {"rich_text": [{"text": {"content": "Queen"}}]},
+    "Orginal Price": {"rich_text": [{"text": {"content": "$3,399.00"}}]},
+    "Savings": {"rich_text": [{"text": {"content": "$2,099.00"}}]},
+    "Quoted Amount": {"rich_text": [{"text": {"content": "$1,300.00"}}]},
+    "Total Quote": {"rich_text": [{"text": {"content": "$0.00"}}]},
+    "Sleep Disruptors": {"rich_text": [{"text": {"content": ""}}]},
+    "Conversation Notes": {"rich_text": [{"text": {"content": "Email: cathyseeger@sbcglobal.net. Pitched on other Tempur for $1300. Needed to go measure mattress to make sure new one is not higher. Tempur is 12 inches, PressureSmart is 11.75 inches. Partner: Gary. Purchase intent 6 months. Quote expires 02/17/2026."}}]},
+    "Stage": {"select": {"name": "Quote Given"}},
+    "Status": {"select": {"name": "Active"}},
+    "Follow Up Step": {"number": 1},
+    "Next Follow Up Date": {"date": {"start": "2026-02-14"}},
+    "Temperature": {"select": null}
+  }
+}

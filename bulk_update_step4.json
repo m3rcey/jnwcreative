@@ -1,0 +1,7 @@
+{
+  "properties": {
+    "Follow Up Step": {"number": 4},
+    "Next Follow Up Date": {"date": {"start": "2026-02-26"}},
+    "Communication Log": {"rich_text": [{"text": {"content": "2026-02-12 — System recalculated follow-up cadence from Conversation Notes.\n"}}]}
+  }
+}

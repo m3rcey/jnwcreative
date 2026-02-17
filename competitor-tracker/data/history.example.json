@@ -1,0 +1,149 @@
+{
+  "lastUpdated": "2026-02-14T08:00:00Z",
+  "competitors": {
+    "saatva": {
+      "name": "Saatva",
+      "baseUrl": "https://www.saatva.com",
+      "products": [
+        {
+          "name": "Saatva Classic",
+          "category": "hybrid",
+          "price": 1595,
+          "currency": "USD",
+          "url": "https://www.saatva.com/mattresses/saatva-classic",
+          "scrapedAt": "2026-02-14T08:00:00Z",
+          "size": "Queen"
+        },
+        {
+          "name": "Saatva Loom & Leaf",
+          "category": "memory-foam",
+          "price": 1495,
+          "currency": "USD",
+          "url": "https://www.saatva.com/mattresses/loom-and-leaf",
+          "scrapedAt": "2026-02-14T08:00:00Z",
+          "size": "Queen"
+        },
+        {
+          "name": "Saatva HD",
+          "category": "hybrid",
+          "price": 1995,
+          "currency": "USD",
+          "url": "https://www.saatva.com/mattresses/saatva-hd",
+          "scrapedAt": "2026-02-14T08:00:00Z",
+          "size": "Queen"
+        },
+        {
+          "name": "Solaire Adjustable",
+          "category": "adjustable-base",
+          "price": 2995,
+          "currency": "USD",
+          "url": "https://www.saatva.com/mattresses/solaire",
+          "scrapedAt": "2026-02-14T08:00:00Z",
+          "size": "Queen"
+        }
+      ],
+      "policies": {
+        "trialPeriodDays": 365,
+        "warrantyYears": 25,
+        "returnPolicy": "Full refund within 1-year trial",
+        "scrapedAt": "2026-02-14T08:00:00Z"
+      },
+      "promotions": [
+        {
+          "text": "Presidents' Day Sale - Save $200 on any mattress",
+          "type": "sale",
+          "scrapedAt": "2026-02-14T08:00:00Z"
+        }
+      ],
+      "scrapedAt": "2026-02-14T08:00:00Z"
+    },
+    "casper": {
+      "name": "Casper",
+      "baseUrl": "https://www.casper.com",
+      "products": [
+        {
+          "name": "Casper Original",
+          "category": "memory-foam",
+          "price": 1295,
+          "currency": "USD",
+          "url": "https://www.casper.com/mattresses/casper-original",
+          "scrapedAt": "2026-02-14T08:00:00Z",
+          "size": "Queen"
+        },
+        {
+          "name": "Casper Hybrid",
+          "category": "hybrid",
+          "price": 1695,
+          "currency": "USD",
+          "url": "https://www.casper.com/mattresses/casper-hybrid",
+          "scrapedAt": "2026-02-14T08:00:00Z",
+          "size": "Queen"
+        },
+        {
+          "name": "Wave Hybrid",
+          "category": "hybrid",
+          "price": 2995,
+          "currency": "USD",
+          "url": "https://www.casper.com/mattresses/wave-hybrid",
+          "scrapedAt": "2026-02-14T08:00:00Z",
+          "size": "Queen"
+        },
+        {
+          "name": "Nova Hybrid",
+          "category": "hybrid",
+          "price": 2495,
+          "currency": "USD",
+          "url": "https://www.casper.com/mattresses/nova-hybrid",
+          "scrapedAt": "2026-02-14T08:00:00Z",
+          "size": "Queen"
+        }
+      ],
+      "policies": {
+        "trialPeriodDays": 100,
+        "warrantyYears": 10,
+        "returnPolicy": "Full refund within 100 nights",
+        "scrapedAt": "2026-02-14T08:00:00Z"
+      },
+      "promotions": [],
+      "scrapedAt": "2026-02-14T08:00:00Z"
+    },
+    "helix": {
+      "name": "Helix",
+      "baseUrl": "https://www.helixsleep.com",
+      "products": [
+        {
+          "name": "Helix Midnight",
+          "category": "hybrid",
+          "price": 1099,
+          "currency": "USD",
+          "url": "https://www.helixsleep.com/midnight",
+          "scrapedAt": "2026-02-14T08:00:00Z",
+          "size": "Queen"
+        },
+        {
+          "name": "Helix Midnight Luxe",
+          "category": "hybrid",
+          "price": 1999,
+          "currency": "USD",
+          "url": "https://www.helixsleep.com/midnight-luxe",
+          "scrapedAt": "2026-02-14T08:00:00Z",
+          "size": "Queen"
+        }
+      ],
+      "policies": {
+        "trialPeriodDays": 100,
+        "warrantyYears": 10,
+        "returnPolicy": "100-night trial with full refund",
+        "scrapedAt": "2026-02-14T08:00:00Z"
+      },
+      "promotions": [
+        {
+          "text": "Presidents' Day Sale - $200 off + 2 free pillows",
+          "type": "sale",
+          "scrapedAt": "2026-02-14T08:00:00Z"
+        }
+      ],
+      "scrapedAt": "2026-02-14T08:00:00Z"
+    }
+  }
+}

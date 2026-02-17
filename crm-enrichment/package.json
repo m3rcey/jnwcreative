@@ -1,0 +1,15 @@
+{
+  "name": "crm-enrichment",
+  "version": "1.0.0",
+  "description": "Auto-enrich Notion CRM prospects with social profile data",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node src/test.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15"
+  }
+}

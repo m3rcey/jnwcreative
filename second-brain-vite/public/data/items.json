@@ -1,0 +1,49 @@
+[
+  {
+    "id": "sample-1",
+    "type": "memory",
+    "title": "Trading System Overview",
+    "content": "The Qullamaggie trading methodology focuses on momentum swing trading. Key principles include:\n\n1. Only trade liquid stocks with $60M+ daily volume\n2. Wait for clean daily chart structures\n3. Execute mechanically with strict risk control\n4. Risk maximum 1% per trade\n\n#trading #methodology",
+    "contentHtml": "<p>The Qullamaggie trading methodology focuses on momentum swing trading...</p>",
+    "date": "2026-02-13",
+    "tags": ["trading", "methodology", "qullamaggie"],
+    "source": "memory",
+    "metadata": { "fileName": "2026-02-13.md" },
+    "createdAt": "2026-02-13T10:00:00Z",
+    "updatedAt": "2026-02-13T10:00:00Z"
+  },
+  {
+    "id": "sample-2",
+    "type": "slack",
+    "title": "Slack: #trading - Market analysis discussion...",
+    "content": "**merce**: What do you think about NVDA's breakout today?\n\n---\n\n**Replies:**\n\n> **bot**: Looking at the daily chart, NVDA is showing a clean Setup 1 breakout above the 3-week consolidation. Volume is 2.5x average.\n\n> **merce**: Position size?\n\n> **bot**: With current ATR of $4.20, suggest 15% position with stop at $138.50.",
+    "contentHtml": "<p><strong>merce</strong>: What do you think about NVDA's breakout today?</p>",
+    "date": "2026-02-12T15:30:00Z",
+    "tags": ["slack", "trading", "nvda", "conversation"],
+    "source": "slack:trading",
+    "threadId": "12345.67890",
+    "metadata": {
+      "channel": "trading",
+      "participants": ["merce", "bot"],
+      "messageCount": 4
+    },
+    "createdAt": "2026-02-12T15:30:00Z",
+    "updatedAt": "2026-02-12T15:45:00Z"
+  },
+  {
+    "id": "sample-3",
+    "type": "user",
+    "title": "Profile: Merce",
+    "content": "# Merce\n\n## Preferences\n- Trading style: Momentum swing trading\n- Risk tolerance: Conservative (0.5-1% per trade)\n- Preferred markets: US Equities, Tech stocks\n\n## Connections\n- Alpaca (Paper Trading)\n- Slack workspace\n- Notion workspace",
+    "contentHtml": "<h1>Merce</h1><h2>Preferences</h2><ul>...</ul>",
+    "date": "2026-02-10T08:00:00Z",
+    "tags": ["profile", "user"],
+    "source": "user",
+    "metadata": {
+      "fileName": "USER.md",
+      "name": "Merce"
+    },
+    "createdAt": "2026-02-10T08:00:00Z",
+    "updatedAt": "2026-02-10T08:00:00Z"
+  }
+]

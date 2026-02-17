@@ -1,0 +1,22 @@
+{
+  "parent": {"database_id": "303e9260-c731-8046-86ef-e46bcd573622"},
+  "properties": {
+    "Name": {"title": [{"text": {"content": "Paul Laiju"}}]},
+    "Contact": {"number": 3146654949},
+    "Quote Date": {"date": {"start": "2026-01-31"}},
+    "Brand": {"rich_text": [{"text": {"content": "Sleepy's, Sealy"}}]},
+    "Model": {"rich_text": [{"text": {"content": "Frisco 2.0 Medium Euro Pillow Top Mattress + Bunkie Board"}}]},
+    "Size": {"rich_text": [{"text": {"content": "Queen"}}]},
+    "Orginal Price": {"rich_text": [{"text": {"content": "$1,609.98"}}]},
+    "Savings": {"rich_text": [{"text": {"content": "$900.00"}}]},
+    "Quoted Amount": {"rich_text": [{"text": {"content": "$709.98"}}]},
+    "Total Quote": {"rich_text": [{"text": {"content": "$773.79"}}]},
+    "Sleep Disruptors": {"rich_text": [{"text": {"content": ""}}]},
+    "Conversation Notes": {"rich_text": [{"text": {"content": "Said to follow up 2/2; needed to check height of bed. Reached out on 2/2 but never heard anything back. Quote expired 02/05/2026. Email not provided."}}]},
+    "Stage": {"select": {"name": "Quote Given"}},
+    "Status": {"select": {"name": "Active"}},
+    "Follow Up Step": {"number": 1},
+    "Next Follow Up Date": {"date": {"start": "2026-02-12"}},
+    "Temperature": {"select": {"name": "Cold"}}
+  }
+}

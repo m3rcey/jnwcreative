@@ -1,0 +1,22 @@
+{
+  "parent": {"database_id": "303e9260-c731-8046-86ef-e46bcd573622"},
+  "properties": {
+    "Name": {"title": [{"text": {"content": "Enrique Colon"}}]},
+    "Contact": {"number": 8165895309},
+    "Quote Date": {"date": {"start": "2026-01-09"}},
+    "Brand": {"rich_text": [{"text": {"content": "Tempur-Pedic"}}]},
+    "Model": {"rich_text": [{"text": {"content": "ProAdapt Firm Mattress + choosing between ProSmart Base ($3,399) or Ergo 3.0 Base ($2,399)"}}]},
+    "Size": {"rich_text": [{"text": {"content": "King"}}]},
+    "Orginal Price": {"rich_text": [{"text": {"content": "$4,099.00"}}]},
+    "Savings": {"rich_text": [{"text": {"content": "$0.00"}}]},
+    "Quoted Amount": {"rich_text": [{"text": {"content": "$4,099.00"}}]},
+    "Total Quote": {"rich_text": [{"text": {"content": "$10,786.56"}}]},
+    "Sleep Disruptors": {"rich_text": [{"text": {"content": ""}}]},
+    "Conversation Notes": {"rich_text": [{"text": {"content": "Check back in Feb; finances tight in Jan due to no overtime. STRATEGY: Consider outlet versions, sell near cost ($1,600 for mattress). Total skewed - two bases on ticket, customer deciding which base."}}]},
+    "Stage": {"select": {"name": "Quote Given"}},
+    "Status": {"select": {"name": "Active"}},
+    "Follow Up Step": {"number": 1},
+    "Next Follow Up Date": {"date": {"start": "2026-02-12"}},
+    "Temperature": {"select": {"name": "Warm"}}
+  }
+}

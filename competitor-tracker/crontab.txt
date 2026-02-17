@@ -1,0 +1,2 @@
+# Run competitor tracker daily at 8:00 AM Central Time
+0 8 * * * cd /home/merce/.openclaw/workspace/competitor-tracker && /usr/bin/node src/index.js >> /home/merce/.openclaw/workspace/competitor-tracker/logs/tracker.log 2>&1

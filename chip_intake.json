@@ -1,0 +1,22 @@
+{
+  "parent": {"database_id": "303e9260-c731-8046-86ef-e46bcd573622"},
+  "properties": {
+    "Name": {"title": [{"text": {"content": "Chip Crawford"}}]},
+    "Contact": {"number": 3142767605},
+    "Quote Date": {"date": {"start": "2026-01-31"}},
+    "Brand": {"rich_text": [{"text": {"content": "Tempur-Pedic"}}]},
+    "Model": {"rich_text": [{"text": {"content": "TEMPUR-ProAdapt 12\" Medium Hybrid Mattress"}}]},
+    "Size": {"rich_text": [{"text": {"content": "King"}}]},
+    "Orginal Price": {"rich_text": [{"text": {"content": "$4,099.00"}}]},
+    "Savings": {"rich_text": [{"text": {"content": "$200.00"}}]},
+    "Quoted Amount": {"rich_text": [{"text": {"content": "$3,899.00"}}]},
+    "Total Quote": {"rich_text": [{"text": {"content": "$10,241.60"}}]},
+    "Sleep Disruptors": {"rich_text": [{"text": {"content": ""}}]},
+    "Conversation Notes": {"rich_text": [{"text": {"content": "Deciding between Ergo base & ProSmart base. Reached out once, no response. Price steered. Quote expired 02/05/2026. Email not provided."}}]},
+    "Stage": {"select": {"name": "Quote Given"}},
+    "Status": {"select": {"name": "Active"}},
+    "Follow Up Step": {"number": 1},
+    "Next Follow Up Date": {"date": {"start": "2026-02-12"}},
+    "Temperature": {"select": {"name": "Cold"}}
+  }
+}

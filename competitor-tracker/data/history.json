@@ -1,0 +1,215 @@
+{
+  "lastUpdated": "2026-02-14T20:31:09.277Z",
+  "competitors": {
+    "saatva": {
+      "name": "Saatva",
+      "baseUrl": "https://www.saatva.com",
+      "products": [],
+      "policies": {
+        "trialPeriodDays": 365,
+        "warrantyYears": 25,
+        "returnPolicy": "Full refund within trial period, white glove pickup",
+        "scrapedAt": "2026-02-14T20:30:56.699Z"
+      },
+      "promotions": [],
+      "scrapedAt": "2026-02-14T20:30:55.919Z"
+    },
+    "casper": {
+      "name": "Casper",
+      "baseUrl": "https://www.casper.com",
+      "products": [],
+      "policies": {
+        "trialPeriodDays": 100,
+        "warrantyYears": 10,
+        "returnPolicy": "Free returns, full refund within trial period",
+        "scrapedAt": "2026-02-14T20:30:58.573Z"
+      },
+      "promotions": [],
+      "scrapedAt": "2026-02-14T20:30:57.710Z"
+    },
+    "sleepnumber": {
+      "name": "Sleep Number",
+      "baseUrl": "https://www.sleepnumber.com",
+      "products": [],
+      "policies": {
+        "trialPeriodDays": 100,
+        "warrantyYears": 15,
+        "returnPolicy": "In-home trial with full refund, exchange options available",
+        "scrapedAt": "2026-02-14T20:31:00.593Z"
+      },
+      "promotions": [],
+      "scrapedAt": "2026-02-14T20:30:59.583Z"
+    },
+    "helix": {
+      "name": "Helix",
+      "baseUrl": "https://www.helixsleep.com",
+      "products": [
+        {
+          "name": "Helix Midnight",
+          "category": "hybrid",
+          "price": 1099,
+          "currency": "USD",
+          "url": "https://www.helixsleep.com/midnight",
+          "scrapedAt": "2026-02-14T20:31:03.426Z",
+          "size": "Queen"
+        },
+        {
+          "name": "Helix Dusk",
+          "category": "hybrid",
+          "price": 1099,
+          "currency": "USD",
+          "url": "https://www.helixsleep.com/dusk",
+          "scrapedAt": "2026-02-14T20:31:03.426Z",
+          "size": "Queen"
+        },
+        {
+          "name": "Helix Midnight Luxe",
+          "category": "hybrid",
+          "price": 1999,
+          "currency": "USD",
+          "url": "https://www.helixsleep.com/midnight-luxe",
+          "scrapedAt": "2026-02-14T20:31:03.426Z",
+          "size": "Queen"
+        },
+        {
+          "name": "Helix Plus",
+          "category": "hybrid",
+          "price": 1499,
+          "currency": "USD",
+          "url": "https://www.helixsleep.com/plus",
+          "scrapedAt": "2026-02-14T20:31:03.426Z",
+          "size": "Queen"
+        }
+      ],
+      "policies": {
+        "trialPeriodDays": 100,
+        "warrantyYears": 10,
+        "returnPolicy": "100-night trial with full refund",
+        "scrapedAt": "2026-02-14T20:31:03.426Z"
+      },
+      "promotions": [],
+      "scrapedAt": "2026-02-14T20:31:01.596Z"
+    },
+    "ashley": {
+      "name": "Ashley Furniture",
+      "baseUrl": "https://www.ashleyfurniture.com",
+      "products": [],
+      "policies": {
+        "trialPeriodDays": 120,
+        "warrantyYears": 10,
+        "returnPolicy": "Comfort guarantee with exchange options",
+        "scrapedAt": "2026-02-14T20:31:05.645Z"
+      },
+      "promotions": [],
+      "scrapedAt": "2026-02-14T20:31:04.429Z"
+    },
+    "macys": {
+      "name": "Macy's",
+      "baseUrl": "https://www.macys.com",
+      "products": [
+        {
+          "name": "Sealy Posturepedic Plus",
+          "category": "hybrid",
+          "price": 1299,
+          "currency": "USD",
+          "url": "https://www.macys.com/shop/mattresses",
+          "scrapedAt": "2026-02-14T20:31:07.001Z",
+          "brand": "Sealy",
+          "size": "Queen"
+        },
+        {
+          "name": "Beautyrest Platinum",
+          "category": "hybrid",
+          "price": 1899,
+          "currency": "USD",
+          "url": "https://www.macys.com/shop/mattresses",
+          "scrapedAt": "2026-02-14T20:31:07.001Z",
+          "brand": "Beautyrest",
+          "size": "Queen"
+        },
+        {
+          "name": "Serta Perfect Sleeper",
+          "category": "innerspring",
+          "price": 799,
+          "currency": "USD",
+          "url": "https://www.macys.com/shop/mattresses",
+          "scrapedAt": "2026-02-14T20:31:07.001Z",
+          "brand": "Serta",
+          "size": "Queen"
+        },
+        {
+          "name": "Tempur-Pedic Cloud",
+          "category": "memory-foam",
+          "price": 2199,
+          "currency": "USD",
+          "url": "https://www.macys.com/shop/mattresses",
+          "scrapedAt": "2026-02-14T20:31:07.001Z",
+          "brand": "Tempur-Pedic",
+          "size": "Queen"
+        }
+      ],
+      "policies": {
+        "trialPeriodDays": 120,
+        "warrantyYears": 10,
+        "returnPolicy": "120-day comfort trial",
+        "scrapedAt": "2026-02-14T20:31:07.001Z"
+      },
+      "promotions": [],
+      "scrapedAt": "2026-02-14T20:31:06.650Z"
+    },
+    "costco": {
+      "name": "Costco",
+      "baseUrl": "https://www.costco.com",
+      "products": [
+        {
+          "name": "Sealy Posturepedic Hybrid",
+          "category": "hybrid",
+          "price": 799,
+          "currency": "USD",
+          "url": "https://www.costco.com/mattresses.html",
+          "scrapedAt": "2026-02-14T20:31:08.270Z",
+          "brand": "Sealy",
+          "size": "Queen"
+        },
+        {
+          "name": "Tempur-Pedic TEMPUR-Cloud",
+          "category": "memory-foam",
+          "price": 1699,
+          "currency": "USD",
+          "url": "https://www.costco.com/mattresses.html",
+          "scrapedAt": "2026-02-14T20:31:08.270Z",
+          "brand": "Tempur-Pedic",
+          "size": "Queen"
+        },
+        {
+          "name": "Sleep Science Memory Foam",
+          "category": "memory-foam",
+          "price": 599,
+          "currency": "USD",
+          "url": "https://www.costco.com/mattresses.html",
+          "scrapedAt": "2026-02-14T20:31:08.270Z",
+          "brand": "Sleep Science",
+          "size": "Queen"
+        },
+        {
+          "name": "Novaform ComfortGrande",
+          "category": "memory-foam",
+          "price": 499,
+          "currency": "USD",
+          "url": "https://www.costco.com/mattresses.html",
+          "scrapedAt": "2026-02-14T20:31:08.270Z",
+          "brand": "Novaform",
+          "size": "Queen"
+        }
+      ],
+      "policies": {
+        "trialPeriodDays": 0,
+        "warrantyYears": 10,
+        "returnPolicy": "Costco satisfaction guarantee - return anytime",
+        "scrapedAt": "2026-02-14T20:31:08.270Z"
+      },
+      "promotions": [],
+      "scrapedAt": "2026-02-14T20:31:08.004Z"
+    }
+  }
+}

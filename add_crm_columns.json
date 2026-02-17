@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "Sales Date": {
+      "date": {}
+    },
+    "Customer ID": {
+      "rich_text": {}
+    },
+    "Sales Order Number": {
+      "rich_text": {}
+    },
+    "Address": {
+      "rich_text": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "parent": {"database_id": "303e9260-c731-8046-86ef-e46bcd573622"},
+  "properties": {
+    "Name": {"title": [{"text": {"content": "Clarence Bledsoe"}}]},
+    "Contact": {"number": 3142391181},
+    "Quote Date": {"date": {"start": "2026-01-11"}},
+    "Brand": {"rich_text": [{"text": {"content": "Beautyrest"}}]},
+    "Model": {"rich_text": [{"text": {"content": "Black Series Three 15\" Firm Mattress"}}]},
+    "Size": {"rich_text": [{"text": {"content": "Queen"}}]},
+    "Orginal Price": {"rich_text": [{"text": {"content": "$3,799.00"}}]},
+    "Savings": {"rich_text": [{"text": {"content": "$0.00"}}]},
+    "Quoted Amount": {"rich_text": [{"text": {"content": "$3,799.00"}}]},
+    "Total Quote": {"rich_text": [{"text": {"content": "$4,178.45"}}]},
+    "Sleep Disruptors": {"rich_text": [{"text": {"content": ""}}]},
+    "Conversation Notes": {"rich_text": [{"text": {"content": "Also liked a mattress at Bob's Furniture more ($1,599 on 18 year warranty). Quote expires 1/16/2026. Email not provided."}}]},
+    "Stage": {"select": {"name": "Quote Given"}},
+    "Status": {"select": {"name": "Active"}},
+    "Follow Up Step": {"number": 1},
+    "Next Follow Up Date": {"date": {"start": "2026-02-12"}},
+    "Temperature": {"select": {"name": "Cold"}}
+  }
+}
